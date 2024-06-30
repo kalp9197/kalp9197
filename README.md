@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Jal Patel!<br>I'm a Web Developer and Machine Learning Engineer who loves building smart, user-friendly applications. I enjoy combining web technology with machine learning to create efficient and scalable solutions.<br><br>
+👋 Hi there, I'm Kalp Patel!<br> Computer Science and Engineering student , currently Studying in 6th semester . Demonstrates strong problem-solving abilities. Committed to continuous learning and staying updated with the latest tech trends.Seeking impactful internship opportunities<br><br>
 
 
 ## 🌐 Socials:
